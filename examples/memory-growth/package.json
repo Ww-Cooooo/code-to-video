@@ -1,0 +1,9 @@
+{
+  "name": "code-to-video-memory-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "代码驱动的记忆与生长短片示例，不是通用主题模板",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {"three": "0.185.1"}
+}

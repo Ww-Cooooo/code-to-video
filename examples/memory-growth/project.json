@@ -1,0 +1,11 @@
+{
+  "title": "Agent · 记忆与自我进化",
+  "width": 1080,
+  "height": 1440,
+  "fps": 30,
+  "duration": 36,
+  "entry": "source/index.html",
+  "review_times": [2, 6, 10, 14, 18, 21, 24, 29, 34],
+  "transitions": [4.5, 8.5, 12.5, 16.5, 19.5, 20.4, 27, 31],
+  "audio": {"path": "audio/score-original.wav", "gain_db": 0, "fade_out": 0}
+}
